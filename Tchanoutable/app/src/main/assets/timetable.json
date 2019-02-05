@@ -1,0 +1,119 @@
+[
+  {
+    "id": 0,
+    "nom": "TR54 CM",
+    "prof": "Abdeljalil ABBAS-TURKI",
+    "lieu": "A205",
+    "day": 3,
+    "debut": 10,
+    "fin": 12
+  },
+  {
+    "id": 1,
+    "nom": "Sp07 CM",
+    "prof": "Boris Cuenot",
+    "lieu": "Gymnase",
+    "day": 1,
+    "debut": 8,
+    "fin": 10
+  },
+  {
+    "id": 2,
+    "nom": "Sp07 TD",
+    "prof": "Boris Cuenot",
+    "lieu": "Gymnase",
+    "day": 1,
+    "debut": 10,
+    "fin": 12
+  },
+  {
+    "id": 3,
+    "nom": "BD51 CM",
+    "prof": "Christian FISCHER",
+    "lieu": "A204",
+    "day": 2,
+    "debut": 8,
+    "fin": 10
+  },
+  {
+    "id": 4,
+    "nom": "LO51 CM",
+    "prof": "Christian FISCHER",
+    "lieu": "A204",
+    "day": 2,
+    "debut": 10,
+    "fin":12
+  },
+  {
+    "id": 5,
+    "nom": "Anglais Niveau 2  TD2",
+    "prof": "Murielle Thanneur",
+    "lieu": "A302",
+    "day": 3,
+    "debut": 14,
+    "fin": 16
+  },
+  {
+    "id": 6,
+    "nom": "TR54 TP",
+    "prof": "Abdeljalil ABBAS-TURKI",
+    "lieu": "H011",
+    "day": 3,
+    "debut": 16,
+    "fin": 19
+  },
+  {
+    "id": 7,
+    "nom": "BD51 TP3",
+    "prof": "Christian FISCHER",
+    "lieu": "B409",
+    "day": 4,
+    "debut": 10,
+    "fin": 13
+  },
+  {
+    "id": 8,
+    "nom": "LO52 CM",
+    "prof": "Fabien BRISSET",
+    "lieu": "A206",
+    "day": 5,
+    "debut": 8,
+    "fin": 10
+  },
+  {
+    "id": 9,
+    "nom": "LO52 TP",
+    "prof": "Fabien BRISSET",
+    "lieu": "B402",
+    "day": 5,
+    "debut": 10,
+    "fin": 13
+  },
+  {
+    "id": 10,
+    "nom": "LO52 TD",
+    "prof": "Fabien BRISSET",
+    "lieu": "A311",
+    "day": 5,
+    "debut": 14,
+    "fin": 16
+  },
+  {
+    "id": 11,
+    "nom": "Anglais Niveau 2 TP",
+    "prof": "Rachelle Bernard",
+    "lieu": "A307",
+    "day": 5,
+    "debut": 17,
+    "fin": 18
+  },
+  {
+    "id": 12,
+    "nom": "BD51 TP",
+    "prof": "Christian FISCHER",
+    "lieu": "B410",
+    "day": 6,
+    "debut": 8,
+    "fin": 12
+  }
+]
